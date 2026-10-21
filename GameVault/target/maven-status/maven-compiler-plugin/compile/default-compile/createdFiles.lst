@@ -1,0 +1,5 @@
+com/example/GameVault/controller/GameController.class
+com/example/GameVault/config/WebConfig.class
+com/example/GameVault/config/SecurityConfig.class
+com/example/GameVault/GameVaultApplication.class
+com/example/GameVault/model/Juego.class
